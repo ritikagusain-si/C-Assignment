@@ -1,0 +1,15 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\bin\Debug\net6.0\ShapeInteraces.exe
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\bin\Debug\net6.0\ShapeInteraces.deps.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\bin\Debug\net6.0\ShapeInteraces.runtimeconfig.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\bin\Debug\net6.0\ShapeInteraces.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\bin\Debug\net6.0\ShapeInteraces.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\refint\ShapeInteraces.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ShapeInteraces.genruntimeconfig.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\ShapeInteraces\obj\Debug\net6.0\ref\ShapeInteraces.dll

@@ -1,0 +1,14 @@
+C:\Users\ritik\source\repos\DAY2\Student\Student\bin\Debug\net6.0\Student.exe
+C:\Users\ritik\source\repos\DAY2\Student\Student\bin\Debug\net6.0\Student.deps.json
+C:\Users\ritik\source\repos\DAY2\Student\Student\bin\Debug\net6.0\Student.runtimeconfig.json
+C:\Users\ritik\source\repos\DAY2\Student\Student\bin\Debug\net6.0\Student.dll
+C:\Users\ritik\source\repos\DAY2\Student\Student\bin\Debug\net6.0\Student.pdb
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.AssemblyInfo.cs
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.csproj.CoreCompileInputs.cache
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.dll
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\refint\Student.dll
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.pdb
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\Student.genruntimeconfig.cache
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\ref\Student.dll

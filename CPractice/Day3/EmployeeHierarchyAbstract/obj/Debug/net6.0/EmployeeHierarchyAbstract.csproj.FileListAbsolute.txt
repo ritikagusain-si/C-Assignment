@@ -1,0 +1,15 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\bin\Debug\net6.0\EmployeeHierarchyAbstract.exe
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\bin\Debug\net6.0\EmployeeHierarchyAbstract.deps.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\bin\Debug\net6.0\EmployeeHierarchyAbstract.runtimeconfig.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\bin\Debug\net6.0\EmployeeHierarchyAbstract.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\bin\Debug\net6.0\EmployeeHierarchyAbstract.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\refint\EmployeeHierarchyAbstract.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\EmployeeHierarchyAbstract.genruntimeconfig.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\EmployeeHierarchyAbstract\obj\Debug\net6.0\ref\EmployeeHierarchyAbstract.dll

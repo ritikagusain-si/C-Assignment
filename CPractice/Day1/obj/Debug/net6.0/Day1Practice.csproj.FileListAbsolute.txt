@@ -1,0 +1,15 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\bin\Debug\net6.0\Day1Practice.exe
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\bin\Debug\net6.0\Day1Practice.deps.json
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\bin\Debug\net6.0\Day1Practice.runtimeconfig.json
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\bin\Debug\net6.0\Day1Practice.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\bin\Debug\net6.0\Day1Practice.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\refint\Day1Practice.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\Day1Practice.genruntimeconfig.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day1Practice\obj\Debug\net6.0\ref\Day1Practice.dll

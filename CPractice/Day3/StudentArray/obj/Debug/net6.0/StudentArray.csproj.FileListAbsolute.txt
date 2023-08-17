@@ -1,0 +1,15 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\bin\Debug\net6.0\StudentArray.exe
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\bin\Debug\net6.0\StudentArray.deps.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\bin\Debug\net6.0\StudentArray.runtimeconfig.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\bin\Debug\net6.0\StudentArray.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\bin\Debug\net6.0\StudentArray.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\refint\StudentArray.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\StudentArray.genruntimeconfig.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\StudentArray\obj\Debug\net6.0\ref\StudentArray.dll

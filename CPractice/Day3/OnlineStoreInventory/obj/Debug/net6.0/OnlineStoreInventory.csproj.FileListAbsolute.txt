@@ -1,0 +1,15 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.exe
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.deps.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.runtimeconfig.json
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\bin\Debug\net6.0\OnlineStoreInventory.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\refint\OnlineStoreInventory.dll
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.pdb
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\OnlineStoreInventory.genruntimeconfig.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day3\OnlineStoreInventory\obj\Debug\net6.0\ref\OnlineStoreInventory.dll

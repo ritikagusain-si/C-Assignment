@@ -1,0 +1,5 @@
+C:\Users\ritika.gusain\Documents\cpractice\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day4\SportzClubManagement\obj\Debug\net6.0\SportzClubManagement.csproj.CoreCompileInputs.cache

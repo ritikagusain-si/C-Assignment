@@ -1,0 +1,9 @@
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\SchoolRecorManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\SchoolRecorManagement.AssemblyInfoInputs.cache
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\SchoolRecorManagement.AssemblyInfo.cs
+C:\Users\ritik\source\repos\DAY2\Student\Student\obj\Debug\net6.0\SchoolRecorManagement.csproj.CoreCompileInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day2\Student\obj\Debug\net6.0\SchoolRecorManagement.csproj.AssemblyReference.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day2\Student\obj\Debug\net6.0\SchoolRecorManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritika.gusain\Documents\cpractice\Day2\Student\obj\Debug\net6.0\SchoolRecorManagement.AssemblyInfoInputs.cache
+C:\Users\ritika.gusain\Documents\cpractice\Day2\Student\obj\Debug\net6.0\SchoolRecorManagement.AssemblyInfo.cs
+C:\Users\ritika.gusain\Documents\cpractice\Day2\Student\obj\Debug\net6.0\SchoolRecorManagement.csproj.CoreCompileInputs.cache
